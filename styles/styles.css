@@ -1,0 +1,53 @@
+#earthBrand {
+    width: 8%;
+    height: 8%;
+}
+
+#brand {
+    font-weight: bolder;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+header {
+    background-color: rgb(221, 221, 28);
+    margin: 3%;
+    padding: 2%;
+    border-radius: 10px;
+    margin-top: auto;
+}
+
+h1 {
+    text-shadow: 0 1px 0 greenyellow, 0 2px 0 greenyellow,
+    0 3px 0 greenyellow, 0 4px 0 greenyellow,
+    0 5px 0 greenyellow, 0 6px 0 greenyellow,
+    0 7px 0 greenyellow, 0 8px 0 greenyellow,
+    0 9px 0 greenyellow, 0 10px 0 greenyellow,
+    0 11px 0 greenyellow, 0 12px 0 greenyellow,
+    0 20px 30px rgba(0, 0, 0, 0.5);
+    color: green;
+    background-color: black;
+    padding: 3%;
+    text-align: center;
+    width: 35%;
+    margin: auto;
+}
+
+footer p {
+    color: gray;
+    text-align: center;
+}
+
+#reason {
+    font-size: 1.35em;
+    margin-top: 1%;
+}
+
+.act-btn {
+    margin-left: 45%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    margin-bottom: 10px;
+}
