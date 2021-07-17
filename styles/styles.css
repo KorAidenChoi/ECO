@@ -1,7 +1,7 @@
  /* @import "./3D-effect.css";  */
  @import "./3D_effect.css";
 
-#earthBrand {
+#earthImgBrand {
     max-width: 100%;
     height: 2rem;
 }
@@ -47,18 +47,18 @@ footer p {
 }
 
 figcaption {
-    color: black !important;
-    font-weight: bold;
+    color: rgb(43, 43, 43);
 }
 
-#act-btn {
-    margin: auto;
-}
 
 #reason {
     font-size: 1.35em;
     margin-top: 1%;
     font-feature-settings: "smcp" on;
+}
+
+#act-btn {
+    width: 25%;
 }
 
 .navbar {
@@ -70,8 +70,9 @@ figcaption {
 }
 
 .container-fluid, #navbar2 {
-    padding-right: 0px;  
-    padding-left: 0px;  
+    padding-right: 0;  
+    padding-left: 0;  
+    width: 100%;
 }
 
 @media only screen and (max-width: 890.90551181px) {
